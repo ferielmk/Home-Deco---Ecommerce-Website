@@ -15,8 +15,10 @@ A sleek, modern e-commerce platform designed for home decoration enthusiasts. Bu
 
 ### 🔒 **User Authentication**  
 - Hassle-free login and logout for customers and admins.
-![main page](readme_images/002 login.png)
 
+![main page](https://github.com/ferielmk/Home-Deco---Ecommerce-Website/blob/main/readme_images/001%20homepage.png)
+
+ 
 ### 🛒 **Main Page**  
 - **Explore**: Browse a variety of home decor items by category.
     ![main page](readme_images/001 homepage.png)
