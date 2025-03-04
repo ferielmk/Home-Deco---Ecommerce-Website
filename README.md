@@ -14,10 +14,12 @@ A sleek, modern e-commerce platform designed for home decoration enthusiasts. Bu
 ## 🎯 Key Features  
 
 ### 🔒 **User Authentication**  
-- Hassle-free login and logout for customers and admins.  
+- Hassle-free login and logout for customers and admins.
+  ![main page](readme_images/002 login.png)
 
 ### 🛒 **Main Page**  
-- **Explore**: Browse a variety of home decor items by category.  
+- **Explore**: Browse a variety of home decor items by category.
+    ![main page](readme_images/001 homepage.png)
 - **Details**: Dive into detailed product descriptions and images.  
 - **Wishlist & Cart**: Save your favorites or prepare your cart for checkout.  
 
